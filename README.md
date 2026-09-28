@@ -14,3 +14,10 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+
+
+
+# 🎉 Ejercicio completado: Test with Actions 🎉
+
+Completé todos los pasos del ejercicio de GitHub Skills.
+Evidencia: [Issue #1](https://github.com/Gafoxxx/skills-test-with-actions/issues/1)
